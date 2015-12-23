@@ -4,20 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <h1 class="page-heading">Welcome to the website for the IEEE Student Branch at the University of Michigan.</h1>
+  <p>As a student organization, we have a strong presence on campus and a strong backing from the international IEEE organization. On campus, we have technical speakers present at our meetings, company representatives talk about their technology and recruit our students, social events, and community service events. Also, we work with HKN to manage and staff the dB cafe, a food stand that provides food at a low cost to students, faculty, and anyone else who comes by our stand.</p>
 
 </div>

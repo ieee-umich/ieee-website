@@ -1,28 +1,27 @@
 ---
 layout: page
-title: dbCafe
+title: db Cafe
 permalink: /dbcafe
 ---
 
-
-## Volunteer
-Would you like to volunteer to work the bagel stand? It's fun, you get to meet a lot of people. If you're interested, drop by the office and sign up for a shift.
+Feeling hungry between classes? Stop by the dB Cafe in the EECS atrium!
 
 ## History of the Bagel Stand
 Short on funds but wanting to provide more services to their members, IEEE and ACM decided that selling bagels in the EECS atrium would be a great way to raise money. So, on September 20, 1993, the Bagel Stand was opened in the EECS atrium, and has been providing excellent service since then.
 
 In 2007, HKN merged their pizza and donut stand with IEEE's bagel stand to form the dB Cafe. In January 2008, the stand moved into its current location in the EECS atrium.
 
-## Today
 Today, the dB Café still sells bagels and now maintains a great variety of foods and drinks. Stop by and see us or see the menu below.
 
-## Suggestions
-If you have any suggestions please contact us at [thedbcafe@umich.edu](mailto:hedbcafe@umich.edu) or [IEEE-Ops@umich.edu](IEEE-Ops@umich.edu).
+## Volunteer
+Would you like to volunteer to work the bagel stand? It's fun, you get to meet a lot of people. If you're interested, drop by the office and sign up for a shift.
 
-## dB Café Shifts
 IEEE is always looking for new people to help at the dB Cafe, and it is a great way to fulfill IEEE active membership requirements!
 
 To sign up, email us at [IEEE-Ops@umich.edu](mailto:IEEE-Ops@umich.edu).
+
+## Suggestions
+If you have any suggestions please contact us at [thedbcafe@umich.edu](mailto:hedbcafe@umich.edu) or [IEEE-Ops@umich.edu](IEEE-Ops@umich.edu).
 
 ## Our Menu
 
