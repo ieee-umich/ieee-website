@@ -19,4 +19,4 @@ The IEEE Service committee is dedicated to coordinating and planning several com
 IEEE Projects Committee exists to empower students and allow them to pursue technical projects outside the classroom. IEEE facilitates students by providing access to labs where students can work on the projects during their own time, as well as access to equipment and mentorship. Click [here](/committees/projects) to learn more.
 
 ##Activities Committee
-In IEEE, many events happen throughout each semester. The Activities Committee is responsible for organizing and creating new events. It is a strong belief of IEEE that an active community is important to the society and the EECS community as a whole. Click [here](/comittees/activities) to learn more.
+In IEEE, many events happen throughout each semester. The Activities Committee is responsible for organizing and creating new events. It is a strong belief of IEEE that an active community is important to the society and the EECS community as a whole. Click [here](/committees/activities) to learn more.
