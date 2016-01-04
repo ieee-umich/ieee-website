@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /committees/projects
+permalink: /committees/projects/
 ---
 
 #Projects Committee

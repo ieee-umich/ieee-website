@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /committees/service
+permalink: /committees/service/
 ---
 
 # Service Committee

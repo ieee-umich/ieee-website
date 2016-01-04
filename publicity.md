@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /committees/publicity
+permalink: /committees/publicity/
 ---
 
 #Publicity Committee
