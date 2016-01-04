@@ -9,7 +9,7 @@
 title: IEEE @ UMich
 email: ieee-officers@umich.edu
 description: Copyright © 2016 IEEE UMich Student Branch. All Rights Reserved.
-baseurl: "/ieee-site/" # the subpath of your site, e.g. /blog
+baseurl: "ieee-site" # the subpath of your site, e.g. /blog
 url: "http://achiwhane.github.io" # the base hostname & protocol for your site
 twitter_username: umichieee
 
