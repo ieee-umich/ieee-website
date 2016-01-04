@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /committees/corporate
+permalink: /committees/corporate/
 ---
 
 #Corporate Committee
-**Chair: TODO (ieee-corp@umich.edu)**
+Chair: Kishore Rao [ieee-corp@umich.edu](mailto:ieee-corp@umich.edu)
