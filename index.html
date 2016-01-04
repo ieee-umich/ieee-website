@@ -1,10 +1,43 @@
 ---
 layout: default
 ---
-
+  <h1>Welcome to the website for the IEEE Student Branch at the University of Michigan.</h1>
 <div class="home">
-
-  <h1 class="page-heading">Welcome to the website for the IEEE Student Branch at the University of Michigan.</h1>
   <p>As a student organization, we have a strong presence on campus and a strong backing from the international IEEE organization. On campus, we have technical speakers present at our meetings, company representatives talk about their technology and recruit our students, social events, and community service events. Also, we work with HKN to manage and staff the dB cafe, a food stand that provides food at a low cost to students, faculty, and anyone else who comes by our stand.</p>
 
+  <h1>Event Calendar</h1>
+  <div class="responsive-iframe-container big-co`ntainer">
+  <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showCalendars=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l3gjdgpqitjcauiv8po9va2ndg%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </div>
+
 </div>
+
+<style>
+@media (max-width: 550px) {
+    .big-container {
+        display: none;
+    }
+}
+@media (min-width: 100px) {
+    .small-container {
+        display: none;
+    }
+}
+/* Responsive iFrame */
+.responsive-iframe-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+.responsive-iframe-container iframe,   
+.vresponsive-iframe-container object,  
+.vresponsive-iframe-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
