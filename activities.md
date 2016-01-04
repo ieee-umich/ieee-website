@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /committees/activities
+permalink: /committees/activities/
 ---
 
 #Activities Committee

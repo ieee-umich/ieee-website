@@ -1,7 +1,7 @@
 ---
 layout: page
 title: db Cafe
-permalink: /dbcafe
+permalink: /dbcafe/
 ---
 
 Feeling hungry between classes? Stop by the dB Cafe in the EECS atrium!

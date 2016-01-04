@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-permalink: /about
+permalink: /about/
 ---
 
 ##About the University of Michigan Student Branch
