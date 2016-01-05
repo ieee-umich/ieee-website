@@ -176,6 +176,7 @@ permalink: /officers/
   -webkit-transition: all 0.4s cubic-bezier(0.88,-0.99, 0, 1.81);
   transition: all 0.4s cubic-bezier(0.88,-0.99, 0, 1.81);
   padding: 10px;
+  
 }
 
 .hovereffect a.info {
