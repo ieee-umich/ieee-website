@@ -1,7 +1,17 @@
 # IEEE Umich Website
+Last Edited by Shuta Suzuki (shutas@umich.edu)
+## Getting Started
 
-## Get Started
+- Install Jekyll  
+`gem install jekyll`
 
-- Install Jekyll
-- navigate to the website directory in your terminal
-- run `jekyll serve` or `bundle exec jekyll serve` (whichever works)
+- And Probably a Bunch of Other Dependencies (please add to this list if you find any)  
+`gem install bundler`  
+`bundle install`  
+`gem install nokogiri` (this should be included in `bundle install`, but I had to install it separately)  
+`gem install rouge`
+
+- Navigate to Website Directory in your Terminal (obviously you need to `git clone` this repo first...)
+
+- Run `jekyll serve` (if you're lucky)  
+I had to `bundle exec jekyll serve`
