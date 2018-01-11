@@ -21,7 +21,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="http://placehold.it/300x300" alt="">
             <div class="overlay">
-               <h2>Eugene Zen, Vice President</h2>
+               <h2>Alex Martin, Vice President</h2>
                <a class="info" href="mailto:IEEE.Vice.President@umich.edu">IEEE.Vice.President@umich.edu</a>
             </div>
         </div>
@@ -31,7 +31,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="http://placehold.it/300x300" alt="">
             <div class="overlay">
-               <h2>Lucy Zhang, Secretary</h2>
+               <h2>Sarah Peterson, Secretary</h2>
                <a class="info" href="mailto:IEEE.Secretary@umich.edu">IEEE.Secretary@umich.edu</a>
             </div>
         </div>
@@ -41,7 +41,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="http://placehold.it/300x300" alt="">
             <div class="overlay">
-               <h2>Kabir Singh, Treasurer</h2>
+               <h2>Kyle Bartley, Treasurer/Corporate</h2>
                <a class="info" href="mailto:IEEE.Treasurer@umich.edu">IEEE.Treasurer@umich.edu</a>
             </div>
         </div>
@@ -51,17 +51,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="http://placehold.it/300x300" alt="">
             <div class="overlay">
-               <h2>Kishore Rao, Corporate Relations Chair</h2>
-               <a class="info" href="#">IEEE.Corp@umich.edu</a>
-            </div>
-        </div>
-    </div>
-
-    <div style="width: 300px; float: left">
-        <div class="hovereffect">
-            <img class="img-responsive" src="http://placehold.it/300x300" alt="">
-            <div class="overlay">
-               <h2>Cynthia Kreng, Department Relations Chair</h2>
+               <h2>Matt Cui, Department Relations</h2>
                <a class="info" href="mailto:IEEE.dept@umich.edu">IEEE.dept@umich.edu</a>
             </div>
         </div>
@@ -71,7 +61,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="http://placehold.it/300x300" alt="">
             <div class="overlay">
-               <h2>Zach Shopshire, Activities Chair</h2>
+               <h2>Paul Domanico, Activities</h2>
                <a class="info" href="mailto:IEEE.Activities@umich.edu">IEEE.Activities@umich.edu</a>
             </div>
         </div>
@@ -81,7 +71,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="http://placehold.it/300x300" alt="">
             <div class="overlay">
-               <h2>Jeff Gunn, Publicity Chair</h2>
+               <h2>Shuta Suzuki, Publicity</h2>
                <a class="info" href="mailto:IEEE.Publicity@umich.edu">IEEE.Publicity@umich.edu</a>
             </div>
         </div>
@@ -91,7 +81,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="http://placehold.it/300x300" alt="">
             <div class="overlay">
-               <h2>Akshay Chiwhane, Projects Chair</h2>
+               <h2>Andrew Wang, Projects</h2>
                <a class="info" href="mailto:IEEE.Projects@umich.edu">IEEE.Projects@umich.edu</a>
             </div>
         </div>
@@ -101,7 +91,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="http://placehold.it/300x300" alt="">
             <div class="overlay">
-               <h2>Hannah Fan, Recruitment Chair</h2>
+               <h2>Peifu Mo, Recruitment</h2>
                <a class="info" href="mailto:IEEE.Recruiting@umich.edu">IEEE.Recruiting@umich.edu</a>
             </div>
         </div>
@@ -111,7 +101,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="http://placehold.it/300x300" alt="">
             <div class="overlay">
-               <h2>Michael Shen, Service Chair</h2>
+               <h2>Stefany Escobedo, Service/Historian</h2>
                <a class="info" href="mailto:IEEE.Service@umich.edu">IEEE.Service@umich.edu</a>
             </div>
         </div>
