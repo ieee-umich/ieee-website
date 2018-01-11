@@ -61,6 +61,16 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="http://placehold.it/300x300" alt="">
             <div class="overlay">
+               <h2>Rishi Tekriwala, Operations</h2>
+               <a class="info" href="mailto:IEEE.ops@umich.edu">IEEE.ops@umich.edu</a>
+            </div>
+        </div>
+    </div>
+
+    <div style="width: 300px; float: left">
+        <div class="hovereffect">
+            <img class="img-responsive" src="http://placehold.it/300x300" alt="">
+            <div class="overlay">
                <h2>Paul Domanico, Activities</h2>
                <a class="info" href="mailto:IEEE.Activities@umich.edu">IEEE.Activities@umich.edu</a>
             </div>
