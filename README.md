@@ -4,4 +4,4 @@
 
 - Install Jekyll
 - navigate to the website directory in your terminal
-- run `jekyll serve`
+- run `jekyll serve` or `bundle exec jekyll serve` (whichever works)
