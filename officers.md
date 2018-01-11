@@ -11,7 +11,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="http://placehold.it/300x300" alt="">
             <div class="overlay">
-               <h2>Reid Turnbull, President</h2>
+               <h2>Kayura Mendonza, President</h2>
                <a class="info" href="mailto:IEEE.pres@umich.edu">IEEE.pres@umich.edu</a>
             </div>
         </div>
