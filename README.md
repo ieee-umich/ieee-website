@@ -6,7 +6,6 @@ Last Edited by Shuta Suzuki (shutas@umich.edu) on January 11th, 2018
 - Shuta Suzuki (shutas@umich.edu)
 
 ## Getting Started
-
 - Install Jekyll  
 `gem install jekyll`
 
@@ -20,3 +19,6 @@ Last Edited by Shuta Suzuki (shutas@umich.edu) on January 11th, 2018
 
 - Run `jekyll serve` (if you're lucky)  
 I had to `bundle exec jekyll serve`
+
+## Note
+This website uses Jekyll, a static website generator. Any changes should be made to the markdown files and let Jekyll do the magic for you ;)
