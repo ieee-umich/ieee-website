@@ -69,7 +69,7 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="/ieee-website/officer_headshots/LI_TRk1z_400x400.jpg" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/shuta_s.jpg" alt="">
             <div class="overlay">
                <h2>Shuta Suzuki, Publicity</h2>
                <a class="info" href="mailto:IEEE.Publicity@umich.edu">IEEE.Publicity@umich.edu</a>
