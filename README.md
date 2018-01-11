@@ -22,7 +22,7 @@ I had to `bundle exec jekyll serve` instead
 
 - Just in case...   
 `jekyll build` or `bundle exec jekyll build` to rebuild.  
-This is probably rare, but if you edit certain files like [_config.yml](_config.yml) that does not get reloaded by simply serving, then you need to restart the server process.
+This is probably rare, but if you edit certain files like [_config.yml](_config.yml) that do not get reloaded by simply serving, then you need to restart the server process.
 
 
 ## Note
