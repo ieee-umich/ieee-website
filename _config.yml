@@ -8,10 +8,12 @@
 # Site settings
 title: IEEE @ UMich
 email: ieee-officers@umich.edu
-description: Copyright © 2016 IEEE UMich Student Branch. All Rights Reserved.
+description: Copyright © 2018 IEEE UMich Student Branch. All Rights Reserved.
 baseurl: '/ieee-website'    # the subpath of your site, e.g. /blog
 url: 'https://ieee-umich.github.io' # the base hostname & protocol for your site
+facebook_username: IEEEUMich
 twitter_username: umichieee
+github_username: ieee-umich
 
 # Build settings
 markdown: kramdown
