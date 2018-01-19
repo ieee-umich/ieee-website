@@ -39,7 +39,7 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="http://placehold.it/300x300" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/kyle_b.jpg" alt="">
             <div class="overlay">
                <h2>Kyle Bartley, Treasurer/Corporate</h2>
                <a class="info" href="mailto:IEEE.Treasurer@umich.edu">IEEE.Treasurer@umich.edu</a>
