@@ -59,7 +59,7 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="http://placehold.it/300x300" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/rishi_t.jpg" alt="">
             <div class="overlay">
                <h2>Rishi Tekriwala, Operations</h2>
                <a class="info" href="mailto:IEEE.ops@umich.edu">IEEE.ops@umich.edu</a>
