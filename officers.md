@@ -42,7 +42,7 @@ permalink: /officers/
             <img class="img-responsive" src="/ieee-website/officer_headshots/kyle_b.jpg" alt="">
             <div class="overlay">
                <h2>Kyle Bartley, Treasurer/Corporate</h2>
-               <a class="info" href="mailto:IEEE.Corporate@umich.edu">IEEE.Corporate@umich.edu</a>
+               <a class="info" href="mailto:IEEE-Corporate@umich.edu">IEEE-Corporate@umich.edu</a>
             </div>
         </div>
     </div>
