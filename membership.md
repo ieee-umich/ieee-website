@@ -4,9 +4,9 @@ title: Membership
 permalink: /membership/
 ---
 
-## 8-Point System
+## 5-Point System
 
-We have an 8-point system as a requirement to join our organization. You will need to earn at least 8 points in a semester in order to achieve active status. Here is a list of things you can do to earn these points:
+We have an 5-point system as a requirement to join our organization. You will need to earn at least 5 points in a semester in order to achieve active status. Here is a list of things you can do to earn these points:
 
 - Attend an event hosted by our student chapter: 1 point
 - Like! our Facebook page at [@IEEEUMich](https://www.facebook.com/IEEEUMich/): 1 point
