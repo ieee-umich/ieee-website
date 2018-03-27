@@ -17,7 +17,7 @@ If you're interested in becoming a member, please fill out the [IEEE Membership 
 
 ## Want to work with us? 
 
-If you're interested in working with us for recruitment purposes or hosting an event on campus, send an e-mail to our IEEE Corporate Chair: [ieee-corp@umich.edu](mailto:ieee-corp@umich.edu), and we'll get back to you promptly with how we can best help you. 
+If you're interested in working with us for recruitment purposes or hosting an event on campus, send an e-mail to our IEEE Corporate Chair: [IEEE-Corporate@umich.edu](mailto:IEEE-Corporate@umich.edu), and we'll get back to you promptly with how we can best help you. 
 
 
 To learn more about IEEE and its mission, visit [ieee.org](http://www.ieee.org).
