@@ -6,6 +6,8 @@ permalink: /dbcafe/
 
 Feeling hungry between classes? Stop by the dB Cafe in the EECS atrium!
 
+![dB Cafe](../images/db_cafe.jpg)
+
 ## History of the Bagel Stand
 Short on funds but wanting to provide more services to their members, IEEE and ACM decided that selling bagels in the EECS atrium would be a great way to raise money. So, on September 20, 1993, the Bagel Stand was opened in the EECS atrium, and has been providing excellent service since then.
 

@@ -4,7 +4,7 @@ title: Officers
 permalink: /officers/
 ---
 
-# Meet our Officers!
+# Meet our Winter 2018 Officers!
 
 
 <div style="display:table">
