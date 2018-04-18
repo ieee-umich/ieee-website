@@ -4,6 +4,8 @@ title: About Us
 permalink: /about/
 ---
 
+![Fall 2018 Officers](../images/fall2018_officers.jpg)
+
 ## Who We Are
 
 We're a student organization that hosts social events and community service events for students to network and have fun, and corporate and techical talks to help companines recruit on campus and students advance their careers. We also work with HKN to manage and staff the dB Cafe, a food stand that provides food and refresments at a low cost.
