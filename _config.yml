@@ -17,3 +17,6 @@ github_username: ieee-umich
 
 # Build settings
 markdown: kramdown
+
+# Making it compatible with MacOS
+highlighter: rogue
