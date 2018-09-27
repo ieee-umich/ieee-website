@@ -23,8 +23,8 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="/ieee-website/officer_headshots/alex_m.jpg" alt="">
             <div class="overlay">
-               <h2>Alex Martin, Vice President</h2>
-               <a class="info" href="mailto:IEEE.Vice.President@umich.edu">IEEE.Vice.President@umich.edu</a>
+               <h2>Alex Martin, VP Finance</h2>
+               <a class="info" href="mailto:IEEE.VPFinance@umich.edu">IEEE.VPFinance@umich.edu</a>
             </div>
         </div>
     </div>
