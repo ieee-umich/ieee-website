@@ -81,7 +81,7 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="https://via.placeholder.com/300x300" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/rajith_w.jpg" alt="">
             <div class="overlay">
                <h2>Rajith Weerasinghe, Activities</h2>
                <a class="info" href="mailto:IEEE.Activities@umich.edu">IEEE.Activities@umich.edu</a>
