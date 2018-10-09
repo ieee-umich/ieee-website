@@ -104,7 +104,7 @@ permalink: /officers/
             <img class="img-responsive" src="https://via.placeholder.com/300x300" alt="">
             <div class="overlay">
                <h2>Jacob Fuher, Membership</h2>
-               <a class="info" href="mailto:IEEE.Recruiting@umich.edu">IEEE.Recruiting@umich.edu</a>
+               <a class="info" href="mailto:IEEE.Membership@umich.edu">IEEE.Membership@umich.edu</a>
             </div>
         </div>
     </div>
@@ -121,7 +121,7 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="https://via.placeholder.com/300x300" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/anthony_w.jpg" alt="">
             <div class="overlay">
                <h2>Anthony Wohlfeil, Publicity</h2>
                <a class="info" href="mailto:IEEE.Publicity@umich.edu">IEEE.Publicity@umich.edu</a>
