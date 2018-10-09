@@ -13,8 +13,8 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="/ieee-website/officer_headshots/kayura_m.jpg" alt="">
             <div class="overlay">
-               <h2>Kayura Mendonza, President</h2>
-               <a class="info" href="mailto:IEEE.Pres@umich.edu">IEEE.Pres@umich.edu</a>
+                <h2>Kayura Mendonza, President</h2>
+                <a class="info" href="mailto:IEEE.Pres@umich.edu">IEEE.Pres@umich.edu</a>
             </div>
         </div>
     </div>
