@@ -71,10 +71,10 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="https://via.placeholder.com/300x300" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/linda_g.jpg" alt="">
             <div class="overlay">
                <h2>Linda Gong, Corporate Assistant</h2>
-               <a class="info" href="mailto:IEEE.CorporateAssistant@umich.edu">IEEE.CorporateAssistant@umich.edu</a>
+               <a class="info" href="mailto:IEEE.CorpAsst@umich.edu">IEEE.CorpAsst@umich.edu</a>
             </div>
         </div>
     </div>
