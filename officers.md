@@ -64,7 +64,7 @@ permalink: /officers/
             <img class="img-responsive" src="https://via.placeholder.com/300x300" alt="">
             <div class="overlay">
                <h2>Sarthak Bansal, Financial Assistant</h2>
-               <a class="info" href="mailto:IEEE.ops@umich.edu">IEEE.ops@umich.edu</a>
+               <a class="info" href="mailto:IEEE.FinancialAssistant@umich.edu">IEEE.FinancialAssistant@umich.edu</a>
             </div>
         </div>
     </div>
@@ -74,7 +74,7 @@ permalink: /officers/
             <img class="img-responsive" src="https://via.placeholder.com/300x300" alt="">
             <div class="overlay">
                <h2>Linda Gong, Corporate Assistant</h2>
-               <a class="info" href="mailto:IEEE.Activities@umich.edu">IEEE.Activities@umich.edu</a>
+               <a class="info" href="mailto:IEEE.CorporateAssistant@umich.edu">IEEE.CorporateAssistant@umich.edu</a>
             </div>
         </div>
     </div>
@@ -91,10 +91,10 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="https://via.placeholder.com/300x300" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/lisa_l.jpg" alt="">
             <div class="overlay">
                <h2>Lisa Li, Department</h2>
-               <a class="info" href="mailto:IEEE.Projects@umich.edu">IEEE.Projects@umich.edu</a>
+               <a class="info" href="mailto:IEEE.Department@umich.edu">IEEE.Department@umich.edu</a>
             </div>
         </div>
     </div>
@@ -114,7 +114,7 @@ permalink: /officers/
             <img class="img-responsive" src="https://via.placeholder.com/300x300" alt="">
             <div class="overlay">
                <h2>James Kacsur, Historian</h2>
-               <a class="info" href="mailto:IEEE.Service@umich.edu">IEEE.Service@umich.edu</a>
+               <a class="info" href="mailto:IEEE.Historian@umich.edu">IEEE.Historian@umich.edu</a>
             </div>
         </div>
     </div>
