@@ -24,7 +24,7 @@ permalink: /officers/
             <img class="img-responsive" src="/ieee-website/officer_headshots/alex_m.jpg" alt="">
             <div class="overlay">
                <h2>Alex Martin, VP Finance</h2>
-               <a class="info" href="mailto:IEEE.VPFinance@umich.edu">IEEE.VPFinance@umich.edu</a>
+               <a class="info" href="mailto:IEEE.VPFin@umich.edu">IEEE.VPFin@umich.edu</a>
             </div>
         </div>
     </div>
@@ -44,7 +44,7 @@ permalink: /officers/
             <img class="img-responsive" src="/ieee-website/officer_headshots/kyle_b.jpg" alt="">
             <div class="overlay">
                <h2>Kyle Bartley, VP Corporate</h2>
-               <a class="info" href="mailto:IEEE.Corporate@umich.edu, IEEE-Treasurer@umich.edu">IEEE.Corporate@umich.edu <br>IEEE-Treasurer@umich.edu</a>
+               <a class="info" href="mailto:IEEE.Corporate@umich.edu">IEEE.Corporate@umich.edu</a>
             </div>
         </div>
     </div>
