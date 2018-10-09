@@ -4,6 +4,7 @@ Last Edited by Shuta Suzuki (shutas@umich.edu) on May 31th, 2018.
 ## Contributors
 - Akshay Chiwhane (achiwha@umich.edu)
 - Shuta Suzuki (shutas@umich.edu)
+- Anthony Wohlfeil (antwohlf@umich.edu)
 
 ## Getting Started
 - Install Jekyll  
