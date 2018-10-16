@@ -7,7 +7,7 @@ permalink: /membership/
 #### Interested in joining IEEE? Great! Follow these 3 simple steps and you will be granted active status!
 
 ### Step 1: Become a National IEEE Member
-Buy national IEEE membership online at [ieee.org/join_renew](ieee.org/join_renew). This will give you instant access to exclusive IEEE membership benefits!
+Buy national IEEE membership online at [ieee.org/join_renew](https://www.ieee.org/join_renew). This will give you instant access to exclusive IEEE membership benefits!
 
 ### Step 2: Notify Your Membership Purchase
 Let us know that you completed Step 1. You can do so by sending us your Member Number along with a screenshot of your membership purchase receipt to [IEEE.Membership@umich.edu](IEEE.Membership@umich.edu).
