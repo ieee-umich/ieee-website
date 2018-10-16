@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 ---
 
-#### The IEEE Student Branch at the University of Michigan is hosts a wide range of events to facilitate connections with the "3-*P*'s": *P*rofessionals, *P*rofessors, and *P*eers.
+#### The IEEE Student Branch at the University of Michigan hosts a wide range of events to facilitate connections with the "3-*P*'s": *P*rofessionals, *P*rofessors, and *P*eers.
 
 ## Connecting with Professionals
 We work with various companies to host corporate info sessions, resume critiquing sessions, and office hours so that our members have ample opportunity to learn about companies in various industries and connect directly with recruiters. Some companies that worked with us this semester are [Facebook](https://www.facebook.com/careers/), [Intel](https://jobs.intel.com/), and [Qualcomm](https://www.qualcomm.com/company/careers), just to name a few.
