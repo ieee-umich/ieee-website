@@ -25,6 +25,11 @@ I had to `bundle exec jekyll serve` instead
 `jekyll build` or `bundle exec jekyll build` to rebuild.  
 This is probably rare, but if you edit certain files like [_config.yml](_config.yml) that do not get reloaded by simply serving, then you need to restart the serve process.
 
+## Troubleshooting
+Setting up the development environment for Ruby is a _pain_. Luckily, I have a few suggestions that may help if you're stuck somewhere in the installation process:
+
+- Ensure that you have the most recent bundler  
+  `gem update bundler`
 
 ## Note
 This website uses Jekyll, a static website generator. 
