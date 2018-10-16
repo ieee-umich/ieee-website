@@ -4,13 +4,15 @@ title: Membership
 permalink: /membership/
 ---
 
-## 5-Point System
+#### Interested in joining IEEE? Great! Follow these 3 simple steps and you will be granted active status!
 
-We have an 5-point system as a requirement to join our organization. You will need to earn at least 5 points in a semester in order to achieve active status. Here is a list of things you can do to earn these points:
+### Step 1: Become a National IEEE Member
+Buy national IEEE membership online at [ieee.org/join_renew](ieee.org/join_renew). This will give you instant access to exclusive IEEE membership benefits!
 
-- Attend an event hosted by our student chapter: 1 point
-- Like! our Facebook page at [@IEEEUMich](https://www.facebook.com/IEEEUMich/): 1 point
-- Share 3 events on our Facebook page: 1 point
-- Sign up for a setup/cleaning shift for our events: 1 point
+### Step 2: Notify Your Membership Purchase
+Let us know that you completed Step 1. You can do so by sending us your Member Number along with a screenshot of your membership purchase receipt to [IEEE.Membership@umich.edu](IEEE.Membership@umich.edu).
 
-If you have any questions, contact our Recruitment Chair at: [IEEE.Recruiting@umich.edu](mailto:IEEE.Recruiting@umich.edu) 
+### Step 3: Become an Active Student Branch Member
+Come to our hosted events! We take attendance at every event we host, so attend at least 2 of our events throughout each semester. Don't worry, we host A LOT of events throughout the semester (e.g. mass meetings, corporate events, social events, professor talks and more!), so feel free to attend the events that interests you. Of course, we would _love_ to see you at every event:)
+
+If you have any questions, feel free to reach out to our Membership Chair at: [IEEE.Membership@umich.edu](mailto:IEEE.Membership@umich.edu)
