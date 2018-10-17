@@ -4,10 +4,15 @@ title: db Cafe
 permalink: /dbcafe/
 ---
 
-Feeling hungry between classes? Stop by the dB Cafe in the EECS atrium!
+### NOTICE: db Cafe is temporarily closed.
+We are currently working with HKN to bring back the db Cafe! We truly apologize for the inconvenience, and we hope to provide the EECS community with good (and cheap!) food again soon:)
 
+<!---
+Feeling hungry between classes? Stop by the dB Cafe in the EECS atrium!
+--->
 ![dB Cafe](../images/db_cafe.jpg)
 
+<!---
 ## History of the Bagel Stand
 Short on funds but wanting to provide more services to their members, IEEE and ACM decided that selling bagels in the EECS atrium would be a great way to raise money. So, on September 20, 1993, the Bagel Stand was opened in the EECS atrium, and has been providing excellent service since then.
 
@@ -88,11 +93,11 @@ If you have any suggestions please contact us at [thedbcafe@umich.edu](mailto:he
 - Honey Wheat
 - Onion
 - Plain
-- Raisin 
+- Raisin
 - Salt
 - Sesame
 - Spinach Feta
-- Tomato Herb 
+- Tomato Herb
 - Vanilla Cinnamon
 
 #### Pizza Toppings:
@@ -103,7 +108,7 @@ If you have any suggestions please contact us at [thedbcafe@umich.edu](mailto:he
 - Banana Pepper
 - Cheese
 - Green Pepper
-- Mushroom 
+- Mushroom
 
 #### Candy:
 - Air Heads Sours
@@ -119,7 +124,7 @@ If you have any suggestions please contact us at [thedbcafe@umich.edu](mailto:he
 - Skittles
 - Snickers
 - Three Musketeers
-- Twix 
+- Twix
 
 #### Soda
 - Coca Cola
@@ -133,4 +138,5 @@ If you have any suggestions please contact us at [thedbcafe@umich.edu](mailto:he
 - Diet Mountain Dew
 - Sprite, Sunkist
 - A&W Rootbeer
-- Vernors 
+- Vernors
+--->
