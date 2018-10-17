@@ -15,12 +15,11 @@ Our organization has a fairly large reach, with over 400 members -- composed of 
 
 ## Interested in joining?
 
-If you're interested in becoming a member, please fill out the [IEEE Membership Form](http://goo.gl/forms/1BWevBzmrV). We'll then keep you updated with upcoming events and announcements.
+If you're interested in becoming a member, check out the [Membership](http://ieee-umich.github.io/ieee-website/membership/) page for detailed instructions. Should you have any questions, please feel free to reach out to our Membership chair at [IEEE.Membership@umich.edu](mailto:IEEE.Membership@umich.edu).
 
-## Want to work with us? 
+## Want to work with us?
 
-If you're interested in working with us for recruitment purposes or hosting an event on campus, send an e-mail to our IEEE Corporate Chair: [IEEE-Corporate@umich.edu](mailto:IEEE-Corporate@umich.edu), and we'll get back to you promptly with how we can best help you. 
+If you're interested in working with us for recruitment purposes or hosting an event on campus, send an e-mail to our IEEE VP Corporate at  [IEEE.Corporate@umich.edu](mailto:IEEE.Corporate@umich.edu), and we'll get back to you promptly with how we can best help you.
 
 
 To learn more about IEEE and its mission, visit [ieee.org](http://www.ieee.org).
-
