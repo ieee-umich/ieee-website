@@ -4,7 +4,7 @@ title: db Cafe
 permalink: /dbcafe/
 ---
 
-### NOTICE: db Cafe is temporarily closed.
+#### NOTICE: db Cafe is temporarily closed.
 We are currently working with HKN to bring back the db Cafe! We truly apologize for the inconvenience, and we hope to provide the EECS community with good (and cheap!) food again soon:)
 
 <!---
