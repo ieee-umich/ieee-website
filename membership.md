@@ -15,4 +15,4 @@ Let us know that you completed Step 1. You can do so by sending us your Member N
 ### Step 3: Become an Active Student Branch Member
 Come to our hosted events! We take attendance at every event we host, so attend at least 2 of our events throughout each semester. Don't worry, we host A LOT of events throughout the semester (e.g. mass meetings, corporate events, social events, professor talks and more!), so feel free to attend the events that interests you. Of course, we would _love_ to see you at every event:)
 
-If you have any questions, feel free to reach out to our Membership Chair at: [IEEE.Membership@umich.edu](mailto:IEEE.Membership@umich.edu)
+If you have any questions, feel free to reach out to our Membership Chair at [IEEE.Membership@umich.edu](mailto:IEEE.Membership@umich.edu)
