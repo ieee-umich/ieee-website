@@ -110,7 +110,7 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="https://via.placeholder.com/300x300" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/james_k.jpg" alt="">
             <div class="overlay">
                <h2>James Kacsur, Historian</h2>
                <a class="info" href="mailto:IEEE.Historian@umich.edu">IEEE.Historian@umich.edu</a>
