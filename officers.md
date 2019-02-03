@@ -52,7 +52,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="/ieee-website/officer_headshots/anthony_w.jpg" alt="">
             <div class="overlay">
-               <h2>nthony Wohlfeil, VP Communications</h2>
+               <h2>Anthony Wohlfeil, VP Communications</h2>
                <a class="info" href="mailto:IEEE.VPComm@umich.edu">IEEE.VPComm@umich.edu</a>
             </div>
         </div>
