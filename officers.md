@@ -10,9 +10,9 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="/ieee-website/officer_headshots/kayura_m.jpg" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/kyle_b.jpg" alt="">
             <div class="overlay">
-                <h2>Kayura Mendonza, President</h2>
+                <h2>Kyle Bartley, President</h2>
                 <a class="info" href="mailto:IEEE.Pres@umich.edu">IEEE.Pres@umich.edu</a>
             </div>
         </div>
@@ -20,10 +20,20 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="/ieee-website/officer_headshots/alex_m.jpg" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/kayura_m.jpg" alt="">
             <div class="overlay">
-               <h2>Alex Martin, VP Finance</h2>
+               <h2>Kayura Mendonza, VP Finance</h2>
                <a class="info" href="mailto:IEEE.VPFin@umich.edu">IEEE.VPFin@umich.edu</a>
+            </div>
+        </div>
+    </div>
+
+    <div style="width: 300px; float: left">
+        <div class="hovereffect">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/jacob_f.jpg" alt="">
+            <div class="overlay">
+               <h2>Jacob Fuher, VP Operations</h2>
+               <a class="info" href="mailto:IEEE.Operations@umich.edu">IEEE.Operations@umich.edu</a>
             </div>
         </div>
     </div>
@@ -32,17 +42,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="/ieee-website/officer_headshots/rishi_t.jpg" alt="">
             <div class="overlay">
-               <h2>Rishi Tekriwal, VP Operations</h2>
-               <a class="info" href="mailto:IEEE.Operations@umich.edu">IEEE.Operations@umich.edu</a>
-            </div>
-        </div>
-    </div>
-
-    <div style="width: 300px; float: left">
-        <div class="hovereffect">
-            <img class="img-responsive" src="/ieee-website/officer_headshots/kyle_b.jpg" alt="">
-            <div class="overlay">
-               <h2>Kyle Bartley, VP Corporate</h2>
+               <h2>Rishi Tekriwal, VP Corporate</h2>
                <a class="info" href="mailto:IEEE.Corporate@umich.edu">IEEE.Corporate@umich.edu</a>
             </div>
         </div>
@@ -50,10 +50,20 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="/ieee-website/officer_headshots/shuta_s.jpg" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/anthony_w.jpg" alt="">
             <div class="overlay">
-               <h2>Shuta Suzuki, VP Communications</h2>
+               <h2>nthony Wohlfeil, VP Communications</h2>
                <a class="info" href="mailto:IEEE.VPComm@umich.edu">IEEE.VPComm@umich.edu</a>
+            </div>
+        </div>
+    </div>
+
+    <div style="width: 300px; float: left">
+        <div class="hovereffect">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/alex_m.jpg" alt="">
+            <div class="overlay">
+               <h2>Alex Martin, Financial Assistant</h2>
+               <a class="info" href="mailto:IEEE.FinancialAssistant@umich.edu">IEEE.FinancialAssistant@umich.edu</a>
             </div>
         </div>
     </div>
@@ -62,17 +72,7 @@ permalink: /officers/
         <div class="hovereffect">
             <img class="img-responsive" src="https://via.placeholder.com/300x300" alt="">
             <div class="overlay">
-               <h2>Sarthak Bansal, Financial Assistant</h2>
-               <a class="info" href="mailto:IEEE.FinancialAssistant@umich.edu">IEEE.FinancialAssistant@umich.edu</a>
-            </div>
-        </div>
-    </div>
-
-    <div style="width: 300px; float: left">
-        <div class="hovereffect">
-            <img class="img-responsive" src="/ieee-website/officer_headshots/linda_g.jpg" alt="">
-            <div class="overlay">
-               <h2>Linda Gong, Corporate Assistant</h2>
+               <h2>Rohan Kanuru, Corporate Assistant</h2>
                <a class="info" href="mailto:IEEE.CorpAsst@umich.edu">IEEE.CorpAsst@umich.edu</a>
             </div>
         </div>
@@ -80,9 +80,9 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="/ieee-website/officer_headshots/rajith_w.jpg" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/matthew_c.jpg" alt="">
             <div class="overlay">
-               <h2>Rajith Weerasinghe, Activities</h2>
+               <h2>Matthew Chesser, Activities</h2>
                <a class="info" href="mailto:IEEE.Activities@umich.edu">IEEE.Activities@umich.edu</a>
             </div>
         </div>
@@ -100,9 +100,9 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="/ieee-website/officer_headshots/jacob_f.jpg" alt="">
+            <img class="img-responsive" src="https://via.placeholder.com/300x300" alt="">
             <div class="overlay">
-               <h2>Jacob Fuher, Membership</h2>
+               <h2>Anna Vento, Membership</h2>
                <a class="info" href="mailto:IEEE.Membership@umich.edu">IEEE.Membership@umich.edu</a>
             </div>
         </div>
@@ -110,9 +110,9 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="/ieee-website/officer_headshots/james_k.jpg" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/shuta_s.jpg" alt="">
             <div class="overlay">
-               <h2>James Kacsur, Historian</h2>
+               <h2>Shuta Suzuki, Historian</h2>
                <a class="info" href="mailto:IEEE.Historian@umich.edu">IEEE.Historian@umich.edu</a>
             </div>
         </div>
@@ -120,9 +120,9 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="/ieee-website/officer_headshots/anthony_w.jpg" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/linda_g.jpg" alt="">
             <div class="overlay">
-               <h2>Anthony Wohlfeil, Publicity</h2>
+               <h2>Linda Gong, Publicity</h2>
                <a class="info" href="mailto:IEEE.Publicity@umich.edu">IEEE.Publicity@umich.edu</a>
             </div>
         </div>
