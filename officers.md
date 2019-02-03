@@ -70,7 +70,7 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="https://via.placeholder.com/300x300" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/rohan_k.jpg" alt="">
             <div class="overlay">
                <h2>Rohan Kanuru, Corporate Assistant</h2>
                <a class="info" href="mailto:IEEE.CorpAsst@umich.edu">IEEE.CorpAsst@umich.edu</a>
