@@ -20,9 +20,9 @@ permalink: /officers/
 
     <div style="width: 300px; float: left">
         <div class="hovereffect">
-            <img class="img-responsive" src="/ieee-website/officer_headshots/kayura_m.jpg" alt="">
+            <img class="img-responsive" src="/ieee-website/officer_headshots/jacob_f.jpg" alt="">
             <div class="overlay">
-               <h2>Kayura Mendonza, VP Finance</h2>
+               <h2>Jacob Fuher, VP Finance</h2>
                <a class="info" href="mailto:IEEE.VPFin@umich.edu">IEEE.VPFin@umich.edu</a>
             </div>
         </div>
