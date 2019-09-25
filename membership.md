@@ -12,7 +12,7 @@ Buy national IEEE membership online at [ieee.org/join_renew](https://www.ieee.or
 ### Step 2: Notify Your Membership Purchase
 Let us know that you completed Step 1. You can do so by sending us your Member Number along with a screenshot of your membership purchase receipt to [IEEE.Membership@umich.edu](IEEE.Membership@umich.edu).
 
-### Step 3: Become an Active Student Branch Member
-Come to our hosted events! We take attendance at every event we host, so attend at least 2 of our events throughout each semester. Don't worry, we host A LOT of events throughout the semester (e.g. mass meetings, corporate events, social events, professor talks and more!), so feel free to attend the events that interests you. Of course, we would _love_ to see you at every event:)
+### Step 3: Participate as an Active Student Branch Member
+Come to our hosted events! We have a lot of events throughout the semester (e.g. mass meetings, corporate events, social events, professor talks and more!), so feel free to attend the events that interests you. Being an active member gives you access to more exclusive events (early meetings with some companies, end of the year banquet, and more!) and we also include your resume in the resume book that we send out to companies!
 
 If you have any questions, feel free to reach out to our Membership Chair at [IEEE.Membership@umich.edu](mailto:IEEE.Membership@umich.edu)
